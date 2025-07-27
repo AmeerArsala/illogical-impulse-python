@@ -9,5 +9,14 @@ pkgbase = illogical-impulse-python
 	depends = python-pywal
 	depends = python-setuptools-scm
 	depends = python-wheel
+	depends = clang
+	depends = uv
+	depends = gtk4
+	depends = libadwaita
+	depends = libsoup3
+	depends = libportal-gtk4
+	depends = gobject-introspection
+	depends = sassc
+	depends = python-opencv
 
 pkgname = illogical-impulse-python
