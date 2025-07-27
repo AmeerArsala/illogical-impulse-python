@@ -7,7 +7,6 @@ license=(None)
 depends=(
   python-build
   python-pillow
-  python-pywal
   python-setuptools-scm
   python-wheel
   clang

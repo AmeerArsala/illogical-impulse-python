@@ -6,7 +6,6 @@ pkgbase = illogical-impulse-python
 	license = None
 	depends = python-build
 	depends = python-pillow
-	depends = python-pywal
 	depends = python-setuptools-scm
 	depends = python-wheel
 	depends = clang
